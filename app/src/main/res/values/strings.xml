@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidArchitectures</string>
+    <string name="err_msg">unable to get the country names. Please try later.</string>
+</resources>
